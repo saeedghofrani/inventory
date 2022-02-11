@@ -1,0 +1,691 @@
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\inventory project.exe.config
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\inventory project.exe
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\inventory project.pdb
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.Licensing.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.5.0.7.0.Fakes.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.Charts.v21.1.Core.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.CodeParser.v21.1.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.Data.v21.1.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.DataAccess.v21.1.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.ExpressApp.v21.1.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.Persistent.Base.v21.1.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.SpellChecker.v21.1.Core.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.Utils.v21.1.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.Xpo.v21.1.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.XtraBars.v21.1.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.XtraCharts.v21.1.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.XtraReports.v21.1.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.XtraSpellChecker.v21.1.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\MySql.Data.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\MySql.Web.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Newtonsoft.Json.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.Images.v21.1.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.PivotGrid.v21.1.Core.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.XtraGauges.v21.1.Core.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Google.Protobuf.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Zstandard.Net.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\BouncyCastle.Crypto.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Ubiety.Dns.Core.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Renci.SshNet.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\System.Memory.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\System.Buffers.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\K4os.Compression.LZ4.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\K4os.Hash.xxHash.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.5.0.7.0.Fakes.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.Data.v21.1.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.DataAccess.v21.1.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.ExpressApp.v21.1.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.Persistent.Base.v21.1.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.SpellChecker.v21.1.Core.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.Xpo.v21.1.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.XtraCharts.v21.1.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.XtraReports.v21.1.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.XtraSpellChecker.v21.1.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\MySql.Data.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\MySql.Web.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\Newtonsoft.Json.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.PivotGrid.v21.1.Core.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\DevExpress.XtraGauges.v21.1.Core.xml
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\de\DevExpress.DataAccess.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\es\DevExpress.DataAccess.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ja\DevExpress.DataAccess.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ru\DevExpress.DataAccess.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\de\DevExpress.ExpressApp.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\es\DevExpress.ExpressApp.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ja\DevExpress.ExpressApp.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ru\DevExpress.ExpressApp.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\de\DevExpress.Persistent.Base.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\es\DevExpress.Persistent.Base.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ja\DevExpress.Persistent.Base.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ru\DevExpress.Persistent.Base.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\de\DevExpress.Xpo.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\es\DevExpress.Xpo.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ja\DevExpress.Xpo.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ru\DevExpress.Xpo.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\de\DevExpress.XtraCharts.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\es\DevExpress.XtraCharts.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ja\DevExpress.XtraCharts.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ru\DevExpress.XtraCharts.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\de\DevExpress.XtraReports.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\es\DevExpress.XtraReports.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ja\DevExpress.XtraReports.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ru\DevExpress.XtraReports.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\de\DevExpress.XtraSpellChecker.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\es\DevExpress.XtraSpellChecker.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ja\DevExpress.XtraSpellChecker.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ru\DevExpress.XtraSpellChecker.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\de\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\es\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ja\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ru\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\de\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\es\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ja\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\bin\Debug\ru\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\Mr.Saeed\console project\inventory project\inventory project\obj\Debug\inventory project.csproj.AssemblyReference.cache
+D:\Mr.Saeed\console project\inventory project\inventory project\obj\Debug\inventory project.exe.config
+D:\Mr.Saeed\console project\inventory project\inventory project\obj\Debug\inventory_project.Form1.resources
+D:\Mr.Saeed\console project\inventory project\inventory project\obj\Debug\inventory_project.Form2.resources
+D:\Mr.Saeed\console project\inventory project\inventory project\obj\Debug\inventory_project.Form3.resources
+D:\Mr.Saeed\console project\inventory project\inventory project\obj\Debug\inventory_project.Home.resources
+D:\Mr.Saeed\console project\inventory project\inventory project\obj\Debug\inventory_project.Properties.Resources.resources
+D:\Mr.Saeed\console project\inventory project\inventory project\obj\Debug\inventory project.csproj.GenerateResource.cache
+D:\Mr.Saeed\console project\inventory project\inventory project\obj\Debug\inventory project.exe.licenses
+D:\Mr.Saeed\console project\inventory project\inventory project\obj\Debug\inventory project.csproj.CoreCompileInputs.cache
+D:\Mr.Saeed\console project\inventory project\inventory project\obj\Debug\inventory project.csproj.CopyComplete
+D:\Mr.Saeed\console project\inventory project\inventory project\obj\Debug\inventory project.exe
+D:\Mr.Saeed\console project\inventory project\inventory project\obj\Debug\inventory project.pdb
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\inventory project.exe.config
+D:\C#\C# Project\inventory project\inventory project\obj\Debug\inventory project.exe
+D:\C#\C# Project\inventory project\inventory project\obj\Debug\inventory project.pdb
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\inventory project.exe
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\inventory project.pdb
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.5.0.7.0.Fakes.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Newtonsoft.Json.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.Images.v21.1.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.PivotGrid.v21.1.Core.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.XtraGauges.v21.1.Core.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Google.Protobuf.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Zstandard.Net.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Ubiety.Dns.Core.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Renci.SshNet.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\System.Memory.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\System.Buffers.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\K4os.Compression.LZ4.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\K4os.Hash.xxHash.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.5.0.7.0.Fakes.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.Data.v21.1.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.DataAccess.v21.1.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.ExpressApp.v21.1.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.Persistent.Base.v21.1.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.SpellChecker.v21.1.Core.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.Xpo.v21.1.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.XtraCharts.v21.1.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.XtraReports.v21.1.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.XtraSpellChecker.v21.1.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\MySql.Data.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\MySql.Data.EntityFramework.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\MySql.Web.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\Newtonsoft.Json.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.PivotGrid.v21.1.Core.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\DevExpress.XtraGauges.v21.1.Core.xml
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\de\DevExpress.DataAccess.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\es\DevExpress.DataAccess.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ja\DevExpress.DataAccess.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ru\DevExpress.DataAccess.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\de\DevExpress.ExpressApp.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\es\DevExpress.ExpressApp.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ja\DevExpress.ExpressApp.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ru\DevExpress.ExpressApp.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\de\DevExpress.Persistent.Base.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\es\DevExpress.Persistent.Base.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ja\DevExpress.Persistent.Base.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ru\DevExpress.Persistent.Base.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\de\DevExpress.Xpo.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\es\DevExpress.Xpo.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ja\DevExpress.Xpo.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ru\DevExpress.Xpo.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\de\DevExpress.XtraCharts.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\es\DevExpress.XtraCharts.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ja\DevExpress.XtraCharts.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ru\DevExpress.XtraCharts.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\de\DevExpress.XtraReports.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\es\DevExpress.XtraReports.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ja\DevExpress.XtraReports.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ru\DevExpress.XtraReports.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\de\DevExpress.XtraSpellChecker.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\es\DevExpress.XtraSpellChecker.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ja\DevExpress.XtraSpellChecker.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ru\DevExpress.XtraSpellChecker.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\de\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\es\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ja\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ru\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\de\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\es\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ja\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\bin\Debug\ru\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory project\inventory project\obj\Debug\inventory project.csprojResolveAssemblyReference.cache
+D:\C#\C# Project\inventory project\inventory project\obj\Debug\inventory project.csproj.inventory project.exe.config
+D:\C#\C# Project\inventory project\inventory project\obj\Debug\inventory_project.Form1.resources
+D:\C#\C# Project\inventory project\inventory project\obj\Debug\inventory_project.Form2.resources
+D:\C#\C# Project\inventory project\inventory project\obj\Debug\inventory_project.Form3.resources
+D:\C#\C# Project\inventory project\inventory project\obj\Debug\inventory_project.Home.resources
+D:\C#\C# Project\inventory project\inventory project\obj\Debug\inventory_project.Properties.Resources.resources
+D:\C#\C# Project\inventory project\inventory project\obj\Debug\inventory project.csproj.GenerateResource.Cache
+D:\C#\C# Project\inventory project\inventory project\obj\Debug\inventory project.exe.licenses
+D:\C#\C# Project\inventory\inventory project\bin\Debug\inventory project.exe.config
+D:\C#\C# Project\inventory\inventory project\obj\Debug\inventory project.exe
+D:\C#\C# Project\inventory\inventory project\obj\Debug\inventory project.pdb
+D:\C#\C# Project\inventory\inventory project\bin\Debug\inventory project.exe
+D:\C#\C# Project\inventory\inventory project\bin\Debug\inventory project.pdb
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.5.0.7.0.Fakes.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Newtonsoft.Json.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.Images.v21.1.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.PivotGrid.v21.1.Core.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.XtraGauges.v21.1.Core.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Google.Protobuf.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Zstandard.Net.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Ubiety.Dns.Core.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Renci.SshNet.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\System.Memory.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\System.Buffers.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\K4os.Compression.LZ4.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\K4os.Hash.xxHash.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.5.0.7.0.Fakes.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.Data.v21.1.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.DataAccess.v21.1.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.ExpressApp.v21.1.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.Persistent.Base.v21.1.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.SpellChecker.v21.1.Core.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.Xpo.v21.1.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.XtraCharts.v21.1.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.XtraReports.v21.1.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.XtraSpellChecker.v21.1.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\MySql.Data.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\MySql.Data.EntityFramework.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\MySql.Web.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\Newtonsoft.Json.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.PivotGrid.v21.1.Core.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\DevExpress.XtraGauges.v21.1.Core.xml
+D:\C#\C# Project\inventory\inventory project\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\de\DevExpress.DataAccess.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\es\DevExpress.DataAccess.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ja\DevExpress.DataAccess.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ru\DevExpress.DataAccess.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\de\DevExpress.ExpressApp.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\es\DevExpress.ExpressApp.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ja\DevExpress.ExpressApp.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ru\DevExpress.ExpressApp.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\de\DevExpress.Persistent.Base.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\es\DevExpress.Persistent.Base.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ja\DevExpress.Persistent.Base.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ru\DevExpress.Persistent.Base.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\de\DevExpress.Xpo.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\es\DevExpress.Xpo.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ja\DevExpress.Xpo.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ru\DevExpress.Xpo.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\de\DevExpress.XtraCharts.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\es\DevExpress.XtraCharts.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ja\DevExpress.XtraCharts.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ru\DevExpress.XtraCharts.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\de\DevExpress.XtraReports.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\es\DevExpress.XtraReports.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ja\DevExpress.XtraReports.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ru\DevExpress.XtraReports.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\de\DevExpress.XtraSpellChecker.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\es\DevExpress.XtraSpellChecker.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ja\DevExpress.XtraSpellChecker.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ru\DevExpress.XtraSpellChecker.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\de\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\es\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ja\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ru\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\de\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\es\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ja\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\bin\Debug\ru\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\C#\C# Project\inventory\inventory project\obj\Debug\inventory project.csprojResolveAssemblyReference.cache
+D:\C#\C# Project\inventory\inventory project\obj\Debug\inventory project.csproj.inventory project.exe.config
+D:\C#\C# Project\inventory\inventory project\obj\Debug\inventory_project.Form1.resources
+D:\C#\C# Project\inventory\inventory project\obj\Debug\inventory_project.Form2.resources
+D:\C#\C# Project\inventory\inventory project\obj\Debug\inventory_project.Form3.resources
+D:\C#\C# Project\inventory\inventory project\obj\Debug\inventory_project.Home.resources
+D:\C#\C# Project\inventory\inventory project\obj\Debug\inventory_project.Properties.Resources.resources
+D:\C#\C# Project\inventory\inventory project\obj\Debug\inventory project.csproj.GenerateResource.Cache
+D:\C#\C# Project\inventory\inventory project\obj\Debug\inventory project.exe.licenses
